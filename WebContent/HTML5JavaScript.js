@@ -4,7 +4,7 @@ function Demo() {
 	var Email = document.getElementById("Email").value;
 	var Phone = document.getElementById("Phone").value;
 	var Address= document.getElementById("Address").value;
-	var comment = document.getElementById("Comment").value;
+	var Comment = document.getElementById("Comment").value;
 	
 	confirm("you have entered:" + "\n Name:=> " + Name  + "\n Email:=> "+ Email +"\n Phone:=> "+ Phone +"\n Address:=>"+ Address +
 		     "\n Comment:=>"+ comment +"\n \n Do you want to confirm these details ?");	
