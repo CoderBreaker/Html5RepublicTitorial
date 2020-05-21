@@ -1,0 +1,96 @@
+ @charset "ISO-8859-1";
+
+body{
+    margin:0;
+	padding:0; 
+	text-decoration:none;
+	background-image: url(NewImage/background3.jpg);
+    background-position:center;
+    background-size : cover;
+    padding:20px;
+    
+}
+
+h2{
+	margin-top:-10px;
+}
+
+.login-Demo-con{
+	margin-top:30px;
+}
+
+.login{
+	background-color:#fff;
+	text-align:center;
+	margin-top:100px;
+	margin-left:450px;
+	padding:20px;   
+    width:250px;
+    height:350px;
+    box-shadow: 0px 0px 3px 2px grey;     
+    border:0px solid #35424a;
+    
+    background-image: url(NewImage/form2.jpg);
+    background-position:center;
+    background-size : cover;
+    padding:20px;
+        
+}
+
+
+#UserName{
+	margin-top:30px;
+	position:absolute;
+	margin-left:-220px;
+	width:250px;
+	height:20px;
+	font-size:25px;
+}
+
+.first{
+	 font-size:20px;
+	 margin-left:-40px;
+}
+
+#Password{
+	margin-top:30px;
+	position:absolute;
+	margin-left:-80px;
+	width:250px;
+	height:20px;
+	font-size:25px;
+}
+
+.second{
+	margin-top:60px;
+	margin-left:-180px;
+	 font-size:20px;
+}
+
+#checkbox{
+	margin-top:30px;
+	margin-left:-250px;
+	font-size:20px;
+}
+
+.three{
+	margin-top:20px;
+	font-size:15px;
+	margin-left:-230px;
+	
+}
+
+.btn input{
+	height:25px;
+    width:100px;
+    background-color:#236790;
+    color:#fff;
+    font-size:20px;
+    border: 1px solid grey;
+    border-radius:0px;
+	paddng:0px 10px;
+}
+
+.btn{
+	margin-top:20px;
+}

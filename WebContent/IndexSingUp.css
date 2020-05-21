@@ -1,0 +1,134 @@
+@charset "ISO-8859-1";
+
+
+body{
+    margin:0;
+	padding:0; 
+	text-decoration:none;
+    background-image: url(NewImage/background2.jpg);
+    background-position:center;
+    background-size : cover;
+    padding:20px;
+    
+}
+
+.SingUp-Demo-con{
+	margin-top:45px;
+}
+
+.SingUp-Demo{
+	margin-top:15px;
+}
+
+.SingUp-Demo p{
+	margin-top:-10px;
+}
+
+h2{
+	margin-top:-20px;
+}
+
+
+.SingUp{
+	text-align:center;
+	margin-top:-5px;
+	margin-left:350px;
+    padding:15px;   
+    width:350px;
+    height:545px;
+    box-shadow: 0px 0px 3px 2px grey;     
+    border:0px solid #35424a;
+    background-image: url(NewImage/login2.jpg);
+    background-position:-180px;
+    background-size :cover;
+     
+    
+  
+    
+    
+}
+
+#UserName{
+   margin-top:30px;	
+   position:absolute;
+   font-size:25px;
+   margin-left:-85px;
+   height:20px;
+   width:30%;
+}
+
+.first{
+	   font-size:20px;
+	   margin-left:-270px;
+	   margin-top:10px;
+	
+}
+
+#Email{
+	font-size:25px;   
+	margin-left:-49px;
+	position:absolute;
+	margin-top:30px;
+	height:20px;
+    width:30%;
+}
+
+.Second{
+	margin-top:70px;
+	margin-left:-305px;
+	font-size:20px;
+	   
+}
+
+
+#Create-Password{
+	margin-top:30px;
+	margin-left:-130px;
+	position:absolute;
+	height:20px;
+    width:30%;
+    font-size:25px;   
+	
+}
+
+.three{
+	margin-top:70px;
+	margin-left:-220px;
+	font-size:20px;
+	
+}
+
+#Conform-Password{
+	margin-top:30px;
+	margin-left:-150px;
+	position:absolute;
+	height:20px;
+    width:30%;
+    font-size:25px;   
+	
+}
+
+
+.forth{
+	
+	margin-top:70px;
+	margin-left:-200px;
+	font-size:20px;
+	
+}
+
+.btn{
+      margin-top:80px;
+      	
+}
+
+.btn input{    
+    height:25px;
+    width:300px;
+    background-color:blue;
+    color:#fff;
+    font-size:20px;
+    border: 1px solid grey;
+    border-radius:0px;
+	paddng:0px 10px;
+}
